@@ -1,10 +1,11 @@
 ## 💻 Preferred Tech
-- Java, Spring Boot, TypeScript, PHP
+- Java, Spring Boot
+- PHP, Symfony, Shopware 6
 - MySQL, MongoDB
-- Docker
-- React, Vue
+- Docker, DDEV
+- React, Vue, TypeScript
 - Tailwind CSS, Bootstrap
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,ts,mysql,mongodb,docker,react,vue,tailwind,bootstrap,js,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,ts,mysql,mongodb,docker,react,vue,tailwind,bootstrap" height="45" />
 </p>
