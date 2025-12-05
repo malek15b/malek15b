@@ -6,6 +6,8 @@
 - React, Vue, TypeScript
 - Tailwind CSS, Bootstrap
 
+---
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,php,ts,mysql,mongodb,docker,react,vue,tailwind,bootstrap" height="45" />
 </p>
